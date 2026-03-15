@@ -289,7 +289,7 @@ Assim, os sistemas atuais fazem parte de uma **grande árvore evolutiva da tecno
 
 Disciplina: **Estrutura e Arquitetura de Sistemas Operacionais**
 
-Aluno: **Seu Nome**
+Aluno: Gustavo Henrique Mota Lima
 
 </div>
 
